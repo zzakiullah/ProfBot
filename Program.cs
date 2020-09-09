@@ -1,6 +1,6 @@
-﻿// Program.cs
+// Program.cs
 // Zulaikha Zakiullah
-// This program controls the Discord bot David Wang, a bot based on past profs.
+// This program controls the Discord bot that's based on past profs.
 
 using System;
 using System.Threading.Tasks;
